@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> Outline a brief description of your project.
+> Multiple Linear regression
 
 
 ## Table of Contents
